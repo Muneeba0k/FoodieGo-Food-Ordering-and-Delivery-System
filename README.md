@@ -76,6 +76,7 @@ Front-end prototype developed and basic functionality tested.
 
 ## Developed By
 Muneeba Iqbal
-
+## Development Workflow
+A separate feature branch is used to manage prototype-related updates independently from the main branch. Changes are committed and reviewed through a pull request.
 BS Software Engineering  
 Software Project Management (SPM) Project
